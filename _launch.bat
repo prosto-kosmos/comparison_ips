@@ -1,0 +1,1 @@
+Comparison_ips.exe etalon.ips out.ips
